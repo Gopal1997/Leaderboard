@@ -21,8 +21,8 @@ This is a Laravel-based **Leaderboard System** to track and rank users based on 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/laravel-leaderboard.git
-cd laravel-leaderboard
+git clone https://github.com/Gopal1997/Leaderboard.git
+cd Leaderboard
 ```
 
 ### 2. Install PHP Dependencies
